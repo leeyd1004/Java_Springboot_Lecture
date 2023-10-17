@@ -391,7 +391,7 @@ class ContinueKeyCodeReadExample {
 
 
 // --> 특정 키보드 입력 찾기
-public class QStopExample {
+class QStopExample {
 	public static void main(String[] args) throws Exception {
 		int keyCode;
 
@@ -429,7 +429,7 @@ class ScannerExample {
 
 
 // --> 부호 연산자
-public class SignOperatorExample {
+class SignOperatorExample {
 	public static void main(String[] args) {
 		int x = -100;
 		int result1 = +x;
